@@ -57,4 +57,6 @@ The results were saved to the `Audit_Results` sheet, with an automatic classific
 The report helps recruiters separate automatically confirmed duplicates from unclear cases that require manual review. It also shows the reason behind each decision.
 ## Video Demo
 
+[Watch the Recruitment CRM Duplicate Detection workflow in action](https://drive.google.com/file/d/1M7p9hM2at0VX63wPWmW5yzPNpZaMNFEx/view?usp=drive_link)
+
 [Watch the Recruitment CRM Automation Demo](https://github.com/rina-alami/Portfolio-Projects/releases/download/v1.0/recruitment-crm-duplicate-detection-demo.mov)
