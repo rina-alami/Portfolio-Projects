@@ -60,3 +60,9 @@ The report helps recruiters separate automatically confirmed duplicates from unc
 [Watch the Recruitment CRM Duplicate Detection workflow in action](https://drive.google.com/file/d/1M7p9hM2at0VX63wPWmW5yzPNpZaMNFEx/view?usp=drive_link)
 
 [Watch the Recruitment CRM Automation Demo](https://github.com/rina-alami/Portfolio-Projects/releases/download/v1.0/recruitment-crm-duplicate-detection-demo.mov)
+
+## Interactive Dashboard
+
+[View the Recruitment CRM Duplicate Detection Dashboard](https://datastudio.google.com/reporting/4a0035ea-f2fb-4a40-a64e-7c620330e77a)
+
+Explore duplicate detection results, review matching signals, and filter candidate pairs that require manual review.
