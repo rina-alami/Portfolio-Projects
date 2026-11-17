@@ -55,3 +55,6 @@ The results were saved to the `Audit_Results` sheet, with an automatic classific
 | `Pair_ID` | Unique pair identifier used to update results without creating duplicates |
 
 The report helps recruiters separate automatically confirmed duplicates from unclear cases that require manual review. It also shows the reason behind each decision.
+## Video Demo
+
+[Watch the Recruitment CRM Automation Demo](https://github.com/rina-alami/Portfolio-Projects/releases/download/v1.0/recruitment-crm-duplicate-detection-demo.mov)
